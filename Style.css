@@ -1,0 +1,61 @@
+
+h3 {
+    color: aliceblue;
+}
+.con-tenedor {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.text-button {
+    position: absolute;
+}
+.card {
+    padding: 20px;
+}
+.card-group {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.pe {
+    text-align: center;
+}
+.h {
+    text-align: center;
+}
+.img {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    filter: brightness(50%);
+}
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: white;
+}
+.text1 {
+    text-align: left;
+    background-color: rgb(58, 58, 58);
+    color: white;
+    float: right;
+    width: 672px;
+    height: 427px;
+    padding: 25px;
+}
+.text2 {
+    text-align: center;
+}
+.contenedor-ultimo {
+    background-color: rgb(23, 23, 37);
+    width: auto;
+    height: 100px;
+}
+.footer {
+    font-size: 100%;
+    display: flex;
+    justify-content: center;
+}
